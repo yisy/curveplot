@@ -1,2 +1,2 @@
 用Qt编写的，显示曲线的小demo
-https://github.com/yisy/curveplot/tree/master/img/index.png
+![首页效果]https://github.com/yisy/curveplot/raw/master/img/index.png
