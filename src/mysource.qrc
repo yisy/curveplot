@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>BB.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>BB.qss</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>icon.png</file>
+        <file>lineChart.png</file>
+        <file>pointCloud.png</file>
+        <file>setting.png</file>
+        <file>serial.png</file>
+        <file>tcp.png</file>
+        <file>usb.png</file>
+        <file>settingchecked.png</file>
+        <file>lineChartchecked.png</file>
+        <file>pointCloudchecked.png</file>
+    </qresource>
+</RCC>

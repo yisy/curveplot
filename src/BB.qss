@@ -1,0 +1,50 @@
+QPushButton#connectSetting,#pointCloudImage,#cureImage{
+    width:50px;
+    height:50px;
+    margin-right:50px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+QPushButton#connectSetting{
+    border-image:url(":/image/setting.png");
+}
+
+QPushButton#pointCloudImage{
+    border-image:url(":/image/pointCloud.png");
+}
+
+QPushButton#cureImage{
+    border-image:url(":/image/lineChart.png");
+}
+
+QFrame#navgationBar{
+    background-color: rgb(43, 152, 188);
+    border-top: 1px solid black;
+    margin:0px;
+}
+
+QFrame#mainPage{
+ background-color: rgb(51, 79, 91);
+ border-top:1px solid black;
+
+}
+
+QMainWindow{
+    background-color: rgb(51, 79, 91);
+    background-image: url(none);
+    background-repeat:repeat-xy;
+}
+
+QListWidget#styleSelect{
+ background-color: rgb(43, 152, 188);
+}
+
+QPushButton#connectSetting:checked{
+    border-image:url(":/image/settingchecked.png");
+}
+QPushButton#pointCloudImage:checked{
+     border-image:url(":/image/pointCloudchecked.png");
+}
+QPushButton#cureImage:checked{
+     border-image:url(":/image/lineChartchecked.png");
+}
